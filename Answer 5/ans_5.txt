@@ -1,3 +1,5 @@
 Question 5 -> What is the DOCTYPE Declaration in HTML ?
 
 Answer 5 -> The <!DOCTYPE> declaration in HTML, known as the "doctype declaration," is an instruction to the web browser about what version of HTML the page is written in. It is the very first thing that is written in the HTML tag. 
+
+..
