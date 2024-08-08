@@ -1,0 +1,15 @@
+
+ Question 2--> Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
+
+ Answer -> In HTML, comments are used to insert notes or explanations within the code that are not displayed in the browser. These comments can span multiple lines or be on a single line. The syntax for comments in HTML is:.
+
+ Example of how to use comments in an HTML document
+ 
+  <!-- This is a single-line comment -->
+
+<!-- 
+    This is a 
+    multi-line comment
+-->
+
+     
