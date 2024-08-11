@@ -1,0 +1,18 @@
+Question 3 -> What are the benefits of using meta tags?
+
+Answer 3 -> Benefits of Using Meta Tags :- 
+
+  1. Improve SEO: 
+         Meta tags like the <title> and <meta name="description"> help search engines understand the content and relevance of your page. 
+
+  2. Better User Experience: 
+        Meta tags can enhance the user experience by providing clear and relevant information about the page. For example, the <meta name="viewport"> tag ensures your site is mobile-friendly, while the <meta charset="UTF-8"> tag ensures proper character encoding.
+
+  3. Enhanced Accessibility:
+        Certain meta tags can contribute to a better overall user experience and accessibility. For instance, specifying the character set ensures that text is rendered correctly across different devices and browsers.
+
+  4. Browser Control: 
+        Tags like <meta name="robots"> can control how search engines index and follow your pages. For example, you can use this tag to prevent indexing of certain pages or to prevent following links on a page.
+
+  5. Enhanced Click-Through Rate (CTR):
+        A well-written meta description can entice users to click on your link from search engine results pages (SERPs). A compelling description helps users understand what your page is about and why it’s relevant to their search.
