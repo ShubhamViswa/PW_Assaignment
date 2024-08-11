@@ -1,0 +1,15 @@
+Question -> List the features of HTML5
+
+Answer -> The Feasutes of HTML five are given below: 
+
+1. Semantic Elements : HTML5 introduces new tags like <header> , <footer> , <article> and <section> to define different parts of web page more clearly 
+
+2. Audio and Video support: HTML5 provides the support of Audio and Video via <audio> and <video> tags.
+
+3. Drag-and-Drop: Simplifies drag-and-drop functionality for web applications using built-in browser capabilities.
+
+4. Form Enhancements: Introduces new input types (email, date, range, etc.), attributes, and validation features, improving form handling.
+
+5. CSS3 Integration: Works seamlessly with CSS3, enabling advanced styling, animations, and transitions.
+
+6. Performance Improvements: Optimized for better performance, faster rendering, and reduced power consumption, especially on mobile devices.
