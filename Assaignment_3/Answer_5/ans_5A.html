@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assaignment 3 -> ans_5A</title>
+</head>
+<body>
+    <!-- Sign up form should have a first name, last name, email password, confirm password, age, gender,and agree ta terms and condition fields at minimum (You can add any other if you like) -->
+    <form action="" method="get">
+        <label for="First Name">First Name: <input type="text" id="firstname" name="First Name" placeholder="Enter the First Name">
+        </label>
+<br><br>
+        <label for="Last Name">Last Name: <input type="text" id="lastname" name="Last Name" placeholder="Enter the Last Name">
+        </label>
+<br><br>
+        <label for="email">Email: <input type="email" id="email" name="email" placeholder="Enter Email here" required></label>
+<br><br>
+        <label for="password">Password: <input type="password" id="password" name="password" placeholder="Enter Password" required>
+        </label>
+        
+<br><br>
+        <label for="confirm_password">Confirm Password: <input type="password" id="confirm_password" name="password" placeholder="Enter Password again" required>
+        </label>
+<br><br> 
+        <label for="age">Age:
+            <input type="number" id="age" name="age" placeholder="39" required min="0" max="109">
+        </label>
+<br><br>
+        <label for="gender">Gender:
+            <input type="radio" id="mail" name="gender" value="male" checked>
+            <label for="male">Male</label>
+
+            <input type="radio" id="femail" name="gender" value="female" checked>
+            <label for="male">Female</label>
+
+            <input type="radio" id="others" name="gender" value="others" checked>
+            <label for="others">Others</label>
+        </label>
+<br><br>
+        <label for="terms">terms:
+            <input type="checkbox" id="terms" required/> I agree to term and conditions
+        </label>
+<br><br>
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>
