@@ -1,0 +1,59 @@
+<!-- Build an HTML page with Multiple paragraphs, each assigned a unique class name. Write CSS rules using class selectors to apply distinct styling to each paragraph. Follow the BEM naming convention and explain how you've named the classes. -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assaignment6 -> ans_2</title>
+
+    <style>
+        .main_heading {
+            color: red;
+        }
+
+        .main_subheading {
+            color: blue;
+        }
+
+        .hero_title {
+            color: green;
+        }
+
+        .hero_description {
+            color: blue;
+        }
+
+        .btn{
+            background-color: #54fa54;
+        }
+
+        .hero_btn-primary{
+            background-color: purple;
+            color: wheat;
+        }
+
+        .hero_btn-secondary{
+            background-color: pink;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <div class="main">
+        <p class="main_heading"> This is my first heading</p>
+        <p class="main_subheading">This is my second heading</p>
+    </div>
+
+    <div class="hero">
+        <p class="hero_title">This is my hero title</p>
+        <p class="hero_description">This is my hero description</p>
+        <button class="btn hero_btn-primary">This is my primary hero button</button>
+        <button class="btn hero_btn-secondary">This is my secondary hero button</button>
+    </div>
+</body>
+
+</html>
